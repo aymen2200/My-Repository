@@ -1,1 +1,1 @@
-second text file
+Hello this is second text file
